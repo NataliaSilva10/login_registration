@@ -1,5 +1,5 @@
 # login_registration
-Simple Registration and Login component with MERN stack
+Simple  Registration and Login component with MERN stack
 
 This project was bootstrapped with Create React App.
 
